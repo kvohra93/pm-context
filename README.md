@@ -14,3 +14,5 @@
 # Class #3 - 5/13/2021
 
 PMBOK allow us to choose the right approach for our project planning phase.
+THe 5 phases of project life cycle or also known as the 5 process groups are :—
+initiating, planning, executing, monitoring/controlling, and closing. 
