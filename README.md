@@ -9,3 +9,8 @@
 * PMI or Project Management Institute is a professional and non profile Group which designed efficient standards in managing projects with most efficiency
 * Interaction, and getting help from team when stuck somewhere is better than bearing the weight of the world on your shoulders
 * Accurate prediction of the ETA for an alotted task makes a really valueable emoloyee for an organization
+
+
+# Class #3 - 5/13/2021
+
+PMBOK allow us to choose the right approach for our project planning phase.
